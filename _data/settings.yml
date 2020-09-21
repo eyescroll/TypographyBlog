@@ -1,11 +1,12 @@
-title: Your name or name of site
-description: A website with a blog
-header_text: My Dream Blog
-footer_text: Copyright 2020 Your name
+title: BREAKTEXT
+description: "A blog covering typography and highlighting its use and importance
+  in the modern world. "
+header_text: Become a conscious expert.
+footer_text: Copyright 2020 Seb Ingham
 header_feature_image: ../uploads/pages.jpg
-bannerheight: "20vmax"
-gridlayout: false
+bannerheight: 20vmax
 logo: /uploads/logo.jpg
 favicon: /uploads/favicon.ico
-upzoom: true
+gridlayout: false
 fixednavbar: false
+upzoom: true
