@@ -11,4 +11,4 @@ The world of motorsport is, much like its cars, fast, flowing and constantly evo
 
 This complex blend of emotions and priorities bleed into all aspects of motorsport design. From the team-wear to the circuit advertisements to the liveries on the cars, bright colours and bold branding are never in short supply. 
 
-So what of the typeface?
+So what of the typeface? Well, in the case of the premiere world motorsports category, Formula 1, the current typeface is known simply as *F1 Regular* with a bolder, wider version called *F1 Turbo* and a clear bold branding font known as *F1 Torque.*
