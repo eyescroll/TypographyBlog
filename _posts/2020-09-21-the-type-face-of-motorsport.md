@@ -11,6 +11,8 @@ tags:
 ---
 
 
+
+
 The world of motorsport is, much like its cars, fast, flowing and constantly evolving to reach new limits and push evermore distant boundaries. It comes as no surprise then that its design ethic aims to echo these values as much as possible, incorporating both the emotional, traditional aspects of the sport as well as its cutting-edge technology and commitment to constant and ruthless advancement.
 
 This complex blend of emotions and priorities bleed into all aspects of motorsport design. From the team-wear to the circuit advertisements to the liveries on the cars, bright colours and bold branding are never in short supply. 
