@@ -1,12 +1,12 @@
-title: BREAKTEXT
+title: Breaking the complexity of typographic design.
 description: "A blog covering typography and highlighting its use and importance
   in the modern world. "
 header_text: Differing types of letters from differing types of life.
 footer_text: Copyright 2020 Seb Ingham
 header_feature_image: ../uploads/hsjoe-yates-cc4stor2oc0-unsplash.png
 bannerheight: 20vmax
-logo: /uploads/logo.jpg
-favicon: /uploads/favicon.ico
+logo: ../uploads/btlogofinal.jpg
+favicon: ../uploads/btfaveicon.jpg
 gridlayout: false
 fixednavbar: true
 upzoom: true
