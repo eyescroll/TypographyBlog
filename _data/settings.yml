@@ -4,7 +4,7 @@ description: "A blog covering typography and highlighting its use and importance
 header_text: Differing types of letters from differing types of life.
 footer_text: Copyright 2020 Seb Ingham
 header_feature_image: ../uploads/joe-yates-cc4stor2oc0-unsplash.jpg
-bannerheight: 20vmax
+bannerheight: 40vmax
 logo: /uploads/logo.jpg
 favicon: /uploads/favicon.ico
 gridlayout: false
