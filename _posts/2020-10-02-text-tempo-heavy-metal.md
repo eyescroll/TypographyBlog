@@ -28,3 +28,15 @@ Another well-known visual style found within the metal scene is the often dramat
 This idea often carries over into the artwork and typography of death metal albums, often using typefaces so aggressive and abstract that they become intentionally near-illegible, reflecting the extremity of the music even within an already aggressive parent genre. 
 
 ![Album art from death metal band Apoptosis Gutrectomy. ](../uploads/death.jpg "Album art from death metal band Apoptosis Gutrectomy. ")
+
+While the most extreme elements of the metal design aesthetic still exist within its sub-genres, modern metal music has started to incorporate less extreme elements, particularly within the progressive metal sub-genre, known best for its experimental and modern interpretations of metal music. Bands like *Architects, Periphery* and *TesseracT* all incorporate some degree of minimalism in their album art whilst retaining some hallmarks of previous metal design. 
+
+For example, *Periphery* use a futuristic, modern typeface for their logo and text while incorporating more traditional metal elements into their artwork, representing their roots in 'old-school' metal whilst outlining their innovative and modern experimental nature. 
+
+![Album art for Hail Stan by Periphery. ](../uploads/perp.jpg "Album art for Hail Stan by Periphery. ")
+
+Other bands take this idea a step further, *TesseracT* often does away with text completely in their album art, preferring to use a purely visual depiction between old and new styles of metal. 
+
+![Album art for Kscope by TesseracT.](../uploads/tesseract-polaris-errai.jpg "Album art for Kscope by TesseracT.")
+
+To some, metal will always be just noise.
