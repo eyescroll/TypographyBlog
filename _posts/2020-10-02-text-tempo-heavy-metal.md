@@ -17,4 +17,8 @@ In this multi-part series, we will look into how design and typefaces are used b
 
 ![Logos from some of the most prolific metal bands in history. Image courtesy of Rachel Alexander of JUMP Branding Agency. ](../uploads/metal-typographica-blog-image-02.jpg "Logos from some of the most prolific metal bands in history. Image courtesy of Rachel Alexander of JUMP Branding Agency. ")
 
-The traditional metal look comes from a combination of bold aggressiveness, often utilising thick, clear lettering as well as elements of Blackletter to lend a gothic element to the design. This idea is exemplified well in the logo of Swedish metal band *Ghost* (depicted above.)
+The traditional metal look comes from a combination of bold aggressiveness, often utilising thick, clear lettering culminating in sharp points as well as elements of Blackletter to lend a gothic element to the design. This idea is exemplified well in the logo of Swedish metal band *Ghost* (depicted above.) 
+
+Another well-known visual style found within the metal scene is the often dramatic and grotesque art that accompanies the sub-genre known as death metal. Polish artist Zdzisław Beksiński (sometimes coined 'The Nightmare Artist') is often credited with inspiring the visual identity of death metal though his art, described by himself as 'dystopian surrealism.' 
+
+![An example of Beksiński's artwork. ](../uploads/untitled_painting_by_zdzislaw_beksinski_1984.jpg "An example of Beksiński's artwork. ")
