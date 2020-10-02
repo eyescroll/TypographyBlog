@@ -39,4 +39,4 @@ Other bands take this idea a step further, *TesseracT* often does away with text
 
 ![Album art for Kscope by TesseracT.](../uploads/tesseract-polaris-errai.jpg "Album art for Kscope by TesseracT.")
 
-To some, metal will always be just noise.
+To some, metal will always be just noise. However, the typography and design of the genre tells a different story, often portraying the more nuanced sides behind of often chaotic exterior. Whether distorted guitars and screaming vocalists appeal to you or not, nothing can take away from the inarguable impact that metal music has had on the industry and, by extension, the effect that its visual style has had on design philosophy.
