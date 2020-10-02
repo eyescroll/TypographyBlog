@@ -13,9 +13,9 @@ The world of motorsport is, much like its cars, fast, flowing and constantly evo
 
 This complex blend of emotions and priorities bleed into all aspects of motorsport design. From the team-wear to the circuit advertisements to the liveries on the cars, bright colours and bold branding are never in short supply. 
 
-So what of the typeface? Well, in the case of the premiere world motorsports category, Formula 1, the current typeface is known simply as *F1 Regular* with a wider, more extreme version called *F1 Turbo* and a clear bold branding font known as *F1 Torque.*
+So what of the typeface? Well, in the case of the premiere world motorsports category, Formula 1, the current typefaces have not been publicly released however, thanks to the work of design studio The Logo Smith, these typefaces have been lovingly recreated and categorised, allowing us to take a closer look at the ideas behind Formula 1's styling. 
 
-This typeface was introduced in 2017 and aims, when used in tandem, to mimic the design of a top-down track map by incorporating a blend of smooth curves and sharp angles to create a highly modern sans-serif design. 
+F1's current typefaces were introduced in 2017 and aim to mimic the design of a top-down track map by incorporating a blend of smooth curves and sharp angles to create a highly modern sans-serif design. 
 
 Straight lines are at the heart of the *F1 Regular* type with letters like 'a' and 'c' incorporating them into what would otherwise be a more gentle curve on a conventional typeface. While smooth curves are prioritised where required, sharp corners are introduced to prevent the font from becoming too flowing and loosing its exciting, precise edge that is at the heart of the Formula 1 philosophy. Letters are connected where a straight line will allow, as if the sheer speed has pulled them together and accenting and punctuation are reduced to highly minimalistic thin lines and squares, again meant to evoke precision and clarity. 
 
