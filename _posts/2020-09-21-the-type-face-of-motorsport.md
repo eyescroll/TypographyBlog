@@ -37,4 +37,4 @@ A good example of this would be DHL, F1's primary logistics partner. The connect
 
 Different sports usually have similar modern, slick typefaces that wouldn't look out of place in a gym or on a tracksuit, however Formula 1 has such an intrinsic connection with speed and extreme forces that I believe its design aesthetic is far more dramatic and eye-catching than those incorporated by other sporting bodies and, in the process making it a fascinating case study for those interested in converting physical movement into something as simple as letters and numbers.
 
-Thanks again to The Logo Smith Design Studio for providing these typefaces, you can check out his website here: https://imjustcreative.com/
+Thanks again to The Logo Smith Design Studio for providing these typefaces, you can check out their website here: https://imjustcreative.com/
