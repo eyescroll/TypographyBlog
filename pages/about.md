@@ -1,20 +1,17 @@
 ---
 layout: page
 title: About
+subtitle: "Exposing the often overlooked world of typographic design. "
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: /uploads/log.jpg
+header_feature_image: ../uploads/aboutmebackground.jpg
 published: true
-subtitle: All about me and my life
 tags: null
 description: null
-show: false
+show: true
 ---
+BREAKTEXT aims to create a hub for content on, and examples of, interesting and useful forms of typography and its usage in the modern world. We cover topics from every corner of society to get the broadest, most inclusive view of the modern world of type. 
 
-This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
+My name is Seb Ingham, I'm from Oxford and I'm the main contributor to the BREAKTEXT project. I'm a student at Oxford Brookes University currently in my second year of my bachelors degree in Media, Publishing and Journalism. 
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
-
-This file is saved inside the _pages_ folder and is saved as _about.md_ . Any file in this folder (as long as it has  the YAML header) will automatically show up as a link in the header bar.
-
-You should use **markdown**to write this text and this will automatically be converted to `HTML`.
+If you are interested in making a contribution to the page, please contact me at: 19036711@brookes.ac.uk
